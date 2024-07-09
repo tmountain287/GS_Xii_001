@@ -56,7 +56,7 @@
 <script src="src/import-map.55dc1.json" type="systemjs-importmap" charset="utf-8"> </script>
 
 <script>
-    System.import('./index.be112.js').catch(function(err) { console.error(err); })
+    System.import('./index.b6560.js').catch(function(err) { console.error(err); })
 </script>
 
   <script>
@@ -65,7 +65,7 @@
 
             // 데이터 그룹화: 날짜별로 이름 카운트 계산
             data.forEach(item => {
-                const date = new Date(item.time * 1000).toISOString().split('T')[0];
+                const date = new Date(item.time).toISOString().split('T')[0];
                 if (!dateMap[date]) {
                     dateMap[date] = {};
                 }
