@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"resources","deps":[],"uuids":["f1CfZ/Uh1LQrneJDvREkob","b6zuLEs45F5b8qy4EX85M/"],"paths":{"0":["data/data",0],"1":["data/UserData",1]},"scenes":{},"packs":{},"versions":{"import":[1,"332e5",0,"fa06d"],"native":[0,"a0b89"]},"redirect":[],"debug":false,"extensionMap":{},"types":["cc.Asset","cc.JsonAsset"]}
