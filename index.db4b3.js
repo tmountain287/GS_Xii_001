@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:index.db4b3.js
 System.register(["./application.70964.js"], function (_export, _context) {
-========
-System.register(["./application.486b7.js"], function (_export, _context) {
->>>>>>>> ef2d161403ba5ba3c3771719e3d44e0264b159a7:index.6be19.js
   "use strict";
 
   var createApplication, canvas, $p, bcr;
@@ -89,13 +85,8 @@ System.register(["./application.486b7.js"], function (_export, _context) {
   }
 
   return {
-<<<<<<<< HEAD:index.db4b3.js
     setters: [function (_application70964Js) {
       createApplication = _application70964Js.createApplication;
-========
-    setters: [function (_application486b7Js) {
-      createApplication = _application486b7Js.createApplication;
->>>>>>>> ef2d161403ba5ba3c3771719e3d44e0264b159a7:index.6be19.js
     }],
     execute: function () {
       canvas = document.getElementById('GameCanvas');
